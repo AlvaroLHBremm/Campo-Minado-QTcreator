@@ -1,4 +1,7 @@
 # Campo Minado em C++ e Qt
+<div style="padding: 0;">
+    <img src="https://skillicons.dev/icons?i=cpp,eclipse,qt" height="50px"/>
+</div><br>
 
 Projeto desenvolvido como trabalho final da disciplina de `Programação Orientada a Objetos`, utilizando **C++** e o framework **Qt**, com desenvolvimento realizado no ambiente Qt Creator.
 
