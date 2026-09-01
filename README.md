@@ -1,6 +1,6 @@
 # Campo Minado em C++ e Qt
 
-Projeto desenvolvido como trabalho final da disciplina de **Programação Orientada a Objetos**, utilizando **C++** e o framework **Qt**, com desenvolvimento realizado no ambiente Qt Creator.
+Projeto desenvolvido como trabalho final da disciplina de `Programação Orientada a Objetos`, utilizando **C++** e o framework **Qt**, com desenvolvimento realizado no ambiente Qt Creator.
 
 O projeto é uma reformulação de uma versão anterior do jogo **Campo Minado**, desenvolvida por iniciativa pessoal e executada inteiramente através do terminal do Windows.
 
@@ -13,7 +13,7 @@ A nova versão teve como principais objetivos:
 * Reorganizar o código utilizando programação orientada a objetos;
 * Separar responsabilidades entre as diferentes partes do programa;
 * Desenvolver uma interface gráfica utilizando Qt;
-* Substituir a interação por linha de comando por uma interface mais intuitiva;
+* Substituir a interação por linha de comando por uma interface visual mais intuitiva;
 * Reaproveitar e aprimorar a lógica desenvolvida na versão original.
 
 Dessa forma, o projeto permitiu comparar diretamente duas abordagens diferentes para a implementação do mesmo jogo, evidenciando a evolução tanto da estrutura do software quanto da interface com o usuário.
@@ -34,16 +34,8 @@ Versão desenvolvida para a disciplina de Programação Orientada a Objetos, com
 
 🎥 [Campo Minado — versão Qt](https://www.youtube.com/watch?v=cRCnXJNNElE)
 
-## Tecnologias utilizadas
-
-* C++
-* Programação Orientada a Objetos
-* Qt
-* Qt Creator
-
 ## Resultado
 
 <!-- O projeto foi apresentado como trabalho final da disciplina de Programação Orientada a Objetos e recebeu **nota 10,0**. -->
-
 
 ![image alt](https://github.com/AlvaroLHBremm/Campo-Minado-QTcreator/blob/main/Campo%20minado.png?raw=true)
