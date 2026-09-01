@@ -41,4 +41,4 @@ Versão desenvolvida para a disciplina de Programação Orientada a Objetos, com
 <!-- O projeto foi apresentado como trabalho final da disciplina de Programação Orientada a Objetos e recebeu **nota 10,0**. -->
 
 <p align="center"> <img src="figs/minesweeper.png" alt="diagrama" width="100%"></p>
-<p align="center"><b>Campo minado no console</b></p>
+<p align="center"><b>Campo minado no Qt</b></p>
