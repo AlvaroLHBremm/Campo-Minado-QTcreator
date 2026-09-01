@@ -6,7 +6,9 @@ O projeto é uma reformulação de uma versão anterior do jogo **Campo Minado**
 
 Na versão original, toda a interação com o usuário era realizada por meio de comandos e as informações eram exibidas no console através. Posteriormente, durante a disciplina de Programação Orientada a Objetos, surgiu a oportunidade de revisitar o projeto e reestruturá-lo utilizando os conceitos estudados em aula.
 
-<!-- Imagem do campo minado CMD -->
+
+<p align="center"> <img src="figs/console.png" alt="diagrama" width="100%"></p>
+<p align="center"><b>Campo minado no console</b></p>
 
 A nova versão teve como principais objetivos:
 
@@ -38,4 +40,5 @@ Versão desenvolvida para a disciplina de Programação Orientada a Objetos, com
 
 <!-- O projeto foi apresentado como trabalho final da disciplina de Programação Orientada a Objetos e recebeu **nota 10,0**. -->
 
-![image alt](https://github.com/AlvaroLHBremm/Campo-Minado-QTcreator/blob/main/Campo%20minado.png?raw=true)
+<p align="center"> <img src="figs/minesweeper.png" alt="diagrama" width="100%"></p>
+<p align="center"><b>Campo minado no console</b></p>
